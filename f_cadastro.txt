@@ -1,0 +1,3 @@
+Os desenvolvedores do software fizeram uma tela de cadastro
+muito bonita com o design responsivo onde agrada o usuário
+final. Até o momento não foi encontrado bug nessa tela
